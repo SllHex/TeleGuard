@@ -1,0 +1,6 @@
+# TeleGuard Dependencies
+# Install with: pip install -r requirements.txt
+
+python-telegram-bot==20.7
+opencv-python==4.8.1.78
+requests==2.31.0
